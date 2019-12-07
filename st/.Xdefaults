@@ -1,10 +1,10 @@
 !! Transparency (0-1):
-st.alpha: 0.97
+st.alpha: 0.95
 
 !! Set a default font and font size as below:
-st.font: Source Code Pro for Powerline-14;
+st.font: Source Code Pro for Powerline-16;
 
-! st.termname: st-256color
+st.termname: st-256color
 ! st.borderpx: 2
 
 !! Set the background, foreground and cursor colors as below:
