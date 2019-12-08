@@ -1,16 +1,13 @@
-# Suckless software
-Collection of suckless software with custom configuration.
-
-Relevant information regarding installation and usage in files.
+# Software that works
+Collection of minimalist software written in C, with custom configuration. You can find relevant information regarding installation and usage within directories.
 + dwm
-+ st *(based on Luke Smith build)*
++ st
 + surf
 + tinycc
 + dotfiles for `vim`, `zsh`, etc.
 
 ## License and Copyright
-Refer to `LICENSE` that comes with particular software
+See `LICENSE` files for copyright and license details
 
 # References
-- https://suckless.org/
-- https://github.com/LukeSmithxyz/st
+https://suckless.org/
