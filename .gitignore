@@ -1,0 +1,5 @@
+*.backup
+*.diff
+*.orig
+*.rej
+config.h
