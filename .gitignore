@@ -1,5 +1,7 @@
-*.backup
-*.diff
+*
+!*.*
+
+*.o
 *.orig
 *.rej
 config.h
